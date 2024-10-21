@@ -1,0 +1,91 @@
+{
+  "buttons": [],
+  "channel_integration": {
+    "id": "2e0ad1e1-aa25-48ef-8681-debcf6b6de23",
+    "target_channel": "wa_cloud"
+  },
+  "created_at": "2024-10-18T09:11:34.630Z",
+  "data_event": "status_message",
+  "external_id": "wamid.HBgNNjI4MTI0OTE4NTg2OBUCABEYEkRENzY4M0JDQjBCRkI3NjRBOAA=",
+  "id": "803bd305-ac63-4966-b700-f4e8fd50b900",
+  "is_campaign": false,
+  "last_campaign": {},
+  "local_id": null,
+  "organization_id": "50583609-7935-4b12-a003-f290ea1952cb",
+  "participant_id": "533f8af5-810e-4143-8a2d-bd807e756bf2",
+  "participant_type": "agent",
+  "reply": null,
+  "room": {
+    "account_uniq_id": "6281249185868",
+    "avatar": {
+      "filename": null,
+      "large": {
+        "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+      },
+      "medium": {
+        "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+      },
+      "size": 0,
+      "small": {
+        "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+      },
+      "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+    },
+    "channel": "wa_cloud",
+    "channel_account": "mGanik",
+    "channel_integration_id": "2e0ad1e1-aa25-48ef-8681-debcf6b6de23",
+    "created_at": "2024-10-18T08:57:38.518Z",
+    "description": "",
+    "division_id": null,
+    "external_id": "",
+    "extra": {
+      "is_participant_online": false
+    },
+    "id": "728a7f66-6dd7-41cb-8a43-9cd7f6e87794",
+    "is_blocked": false,
+    "is_dont_auto_resolve": false,
+    "is_unresponded": false,
+    "last_activity_at": "2024-10-18T09:11:34.630Z",
+    "last_message_at": "2024-10-18T09:11:34.630Z",
+    "name": "Harlilik",
+    "organization_id": "50583609-7935-4b12-a003-f290ea1952cb",
+    "resolved_at": null,
+    "resolved_by_id": null,
+    "resolved_by_type": null,
+    "session_at": "2024-10-18T08:57:37.000Z",
+    "status": "assigned",
+    "tags": [
+      "leads fb",
+      "intro 3peptide",
+      "tidak tertarik"
+    ],
+    "type": "Models::CustomerServiceRoom",
+    "unread_count": 0,
+    "updated_at": "2024-10-18T09:11:34.803Z"
+  },
+  "room_id": "728a7f66-6dd7-41cb-8a43-9cd7f6e87794",
+  "sender": {
+    "avatar": {
+      "filename": null,
+      "large": {
+        "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+      },
+      "medium": {
+        "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+      },
+      "size": 0,
+      "small": {
+        "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+      },
+      "url": "https://qontak-hub-production.s3-ap-southeast-1.amazonaws.com/assets/qi-user.png"
+    },
+    "name": "POS 3  - mGanik"
+  },
+  "sender_id": "32b780e7-bae7-4dc2-beeb-d1586f932d6a",
+  "sender_type": "Models::User",
+  "status": "read",
+  "text": "Bisa diceritakan terlebih dahulu keluhan & gejala yang saat ini Bapak alami? Agar Mellani bisa merekomendasikan produk mGanik yang tepat untuk *SOLUSI Kesehatan* Bapak 😊🙏🏻",
+  "type": "text",
+  "url": "",
+  "webhook_event": "message_interaction"
+}
